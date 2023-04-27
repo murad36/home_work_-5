@@ -1,0 +1,15 @@
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\home_5.csproj.AssemblyReference.cache
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\home_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\home_5.AssemblyInfoInputs.cache
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\home_5.AssemblyInfo.cs
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\home_5.csproj.CoreCompileInputs.cache
+C:\Users\Пушка\Desktop\home_5\bin\Debug\net7.0\home_5.exe
+C:\Users\Пушка\Desktop\home_5\bin\Debug\net7.0\home_5.deps.json
+C:\Users\Пушка\Desktop\home_5\bin\Debug\net7.0\home_5.runtimeconfig.json
+C:\Users\Пушка\Desktop\home_5\bin\Debug\net7.0\home_5.dll
+C:\Users\Пушка\Desktop\home_5\bin\Debug\net7.0\home_5.pdb
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\home_5.dll
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\refint\home_5.dll
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\home_5.pdb
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\home_5.genruntimeconfig.cache
+C:\Users\Пушка\Desktop\home_5\obj\Debug\net7.0\ref\home_5.dll
